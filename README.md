@@ -1,3 +1,5 @@
+# function
+    利用自编码神经网络提取图片特征 对相似图片进行检索
 
 # dependencies
     python3
@@ -8,4 +10,4 @@
     python auto_encode.py
     
 # 数据说明
-    从[百度云](https://pan.baidu.com/s/1fuWJQ3QuTTqKU_Dn09bsSg)下载image.zip 解压到./data目录
+百度云(https://pan.baidu.com/s/)从下载image.zip 解压到./data目录
