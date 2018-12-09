@@ -10,4 +10,4 @@
     python auto_encode.py
     
 # 数据说明
-百度云(https://pan.baidu.com/s/1QqNxzIoP4PGeaqo7CS3yRg)从下载image.zip 解压到./data目录
+百度云https://pan.baidu.com/s/1QqNxzIoP4PGeaqo7CS3yRg 下载image.zip 解压到./data目录
